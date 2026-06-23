@@ -1,0 +1,16 @@
+node_modules/
+.output/
+.wxt/
+test-results/
+playwright-report/
+coverage/
+dist/
+
+.DS_Store
+*.log
+*.local
+.env
+.env.*
+
+work/
+
